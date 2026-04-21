@@ -11,7 +11,7 @@ https://<github-user>.github.io/<repo-name>/widgets/pdf-export-widget/manifest.j
 Cache'e takilmamak icin versioned URL:
 
 ```text
-https://<github-user>.github.io/<repo-name>/v104/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/v105/widgets/pdf-export-widget/manifest.json
 ```
 
 Portal'da:
