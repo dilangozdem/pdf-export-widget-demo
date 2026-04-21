@@ -21,4 +21,5 @@ Notlar:
 - Repo public olmali.
 - GitHub Pages root olarak bu klasoru veya repo root'unu yayinlamali.
 - `widgets/chunks` klasoru silinmemeli; html2canvas/jsPDF chunk dosyalari buradan yuklenir.
+- `widgets-info.json` yuklenmez; Portal built-in widget registry'sini karistirabilir.
 - `github.com/.../blob/.../manifest.json` URL'si kullanilmaz.

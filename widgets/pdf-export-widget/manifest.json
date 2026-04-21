@@ -2,7 +2,7 @@
   "name": "pdf-export-widget",
   "label": "PDF Export Widget",
   "type": "widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exbVersion": "1.18.0",
   "author": "Custom Development",
   "description": "Dashboard ve harita gorunumunu PDF olarak disa aktarma.",
