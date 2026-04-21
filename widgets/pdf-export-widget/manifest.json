@@ -1,0 +1,27 @@
+{
+  "name": "pdf-export-widget",
+  "label": "PDF Export Widget",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "Custom Development",
+  "description": "Dashboard ve harita gorunumunu PDF olarak disa aktarma.",
+  "copyright": "",
+  "license": "Apache-2.0",
+  "properties": {
+    "canCreateMapView": false,
+    "hasVersionManager": false,
+    "hasConfig": false
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "translatedLocales": [
+    "tr",
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 480
+  }
+}
