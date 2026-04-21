@@ -6,12 +6,14 @@ GitHub Pages URL formati:
 
 ```text
 https://<github-user>.github.io/<repo-name>/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/widgets/property-report/manifest.json
 ```
 
 Cache'e takilmamak icin versioned URL:
 
 ```text
-https://<github-user>.github.io/<repo-name>/v112/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/v113/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/v113/widgets/property-report/manifest.json
 ```
 
 Portal'da:
