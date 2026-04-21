@@ -8,6 +8,12 @@ GitHub Pages URL formati:
 https://<github-user>.github.io/<repo-name>/widgets/pdf-export-widget/manifest.json
 ```
 
+Cache'e takilmamak icin versioned URL:
+
+```text
+https://<github-user>.github.io/<repo-name>/v103/widgets/pdf-export-widget/manifest.json
+```
+
 Portal'da:
 
 ```text
