@@ -13,9 +13,7 @@
     "hasVersionManager": false,
     "hasConfig": false
   },
-  "dependency": [
-    "jimu-arcgis"
-  ],
+  "dependency": [],
   "translatedLocales": [
     "tr",
     "en"
