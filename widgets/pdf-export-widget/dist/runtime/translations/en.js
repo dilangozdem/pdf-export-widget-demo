@@ -1,1 +1,1 @@
-define({_widgetLabel:"PDF Export"});
+System.register([],(function(e){return{execute:function(){e({_widgetLabel:"PDF Export"})}}}));
