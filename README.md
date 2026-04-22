@@ -13,9 +13,9 @@ https://<github-user>.github.io/<repo-name>/widgets/property-reportv2/manifest.j
 Cache'e takilmamak icin versioned URL:
 
 ```text
-https://<github-user>.github.io/<repo-name>/v125/widgets/pdf-export-widget/manifest.json
-https://<github-user>.github.io/<repo-name>/v125/widgets/property-report/manifest.json
-https://<github-user>.github.io/<repo-name>/v125/widgets/property-reportv2/manifest.json
+https://<github-user>.github.io/<repo-name>/v126/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/v126/widgets/property-report/manifest.json
+https://<github-user>.github.io/<repo-name>/v126/widgets/property-reportv2/manifest.json
 ```
 
 Portal'da:

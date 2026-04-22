@@ -24,9 +24,7 @@
   "pdfTitle": "Property Report",
   "pdfIncludeTables": true,
   "pdfIncludeCharts": true,
-  "pdfIncludeAttachments": true,
   "resultsPanelTitle": "Property Report",
-  "searchPlaceholder": "Search address or location...",
   "pdfHeader": {
     "organizationName": "",
     "titleMode": "default",
@@ -35,10 +33,7 @@
     "showGeneratedDate": true,
     "showCoordinates": true,
     "includeMap": true,
-    "mapHeight": 70,
-    "mapScaleMode": "fixed",
-    "mapScale": 15000,
-    "mapFitPadding": 2,
+    "mapHeight": 60,
     "titlePosition": "center",
     "datePosition": "right",
     "headerLayout": "inline"
@@ -61,16 +56,10 @@
     "sectionHeaderTextColor": "#FFFFFF",
     "alternateRowColor": "#F5F5F5",
     "borderColor": "#CCCCCC",
-    "fontFamily": "Noto Sans",
+    "fontFamily": "helvetica",
     "dataLayout": "auto",
     "showSectionBorders": true,
-    "compactMode": false,
-    "tableHeaderFontSize": 9,
-    "tableDataFontSize": 9,
-    "tableRowHeight": 8,
-    "tableMaxColumns": 4,
-    "tableMaxRows": 10,
-    "tableCellPadding": 2
+    "compactMode": false
   },
   "defaultChartConfig": {
     "chartType": "bar",
