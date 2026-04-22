@@ -7,13 +7,15 @@ GitHub Pages URL formati:
 ```text
 https://<github-user>.github.io/<repo-name>/widgets/pdf-export-widget/manifest.json
 https://<github-user>.github.io/<repo-name>/widgets/property-report/manifest.json
+https://<github-user>.github.io/<repo-name>/widgets/property-reportv2/manifest.json
 ```
 
 Cache'e takilmamak icin versioned URL:
 
 ```text
-https://<github-user>.github.io/<repo-name>/v117/widgets/pdf-export-widget/manifest.json
-https://<github-user>.github.io/<repo-name>/v117/widgets/property-report/manifest.json
+https://<github-user>.github.io/<repo-name>/v118/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/v118/widgets/property-report/manifest.json
+https://<github-user>.github.io/<repo-name>/v118/widgets/property-reportv2/manifest.json
 ```
 
 Portal'da:
