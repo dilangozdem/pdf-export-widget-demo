@@ -1,0 +1,11 @@
+System.register(["jimu-core","jimu-ui","jimu-ui/advanced/setting-components"],(function(t,e){var o={},n={},i={};return{setters:[function(t){o.css=t.css,o.jsx=t.jsx},function(t){n.Switch=t.Switch,n.TextInput=t.TextInput},function(t){i.SettingRow=t.SettingRow}],execute:function(){t((()=>{var t={4321:t=>{"use strict";t.exports=n},9244:t=>{"use strict";t.exports=o},9298:t=>{"use strict";t.exports=i}},e={};function r(o){var n=e[o];if(void 0!==n)return n.exports;var i=e[o]={exports:{}};return t[o](i,i.exports,r),i.exports}r.d=(t,e)=>{for(var o in e)r.o(e,o)&&!r.o(t,o)&&Object.defineProperty(t,o,{enumerable:!0,get:e[o]})},r.o=(t,e)=>Object.prototype.hasOwnProperty.call(t,e),r.r=t=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},r.p="";var s={};return r.p=window.jimuConfig.baseUrl,(()=>{"use strict";r.r(s),r.d(s,{default:()=>i});var t=r(9244),e=r(4321),o=r(9298);const n=t.css`
+  .action-setting-container {
+    padding: 12px;
+  }
+  .setting-description {
+    color: #666;
+    font-size: 12px;
+    margin-bottom: 12px;
+    line-height: 1.4;
+  }
+`,i=i=>{var r,s;const a=null!==(r=i.actionConfig)&&void 0!==r?r:{autoScrollToResults:!0},c=t=>{i.onSettingChange({actionId:i.actionId,config:Object.assign(Object.assign({},a),t)})};return(0,t.jsx)("div",{css:n},(0,t.jsx)("div",{className:"action-setting-container"},(0,t.jsx)("div",{className:"setting-description"},"When triggered, the Property Report widget will automatically run a report at the selected location."),(0,t.jsx)(o.SettingRow,{label:"Auto-scroll to results",flow:"no-wrap"},(0,t.jsx)(e.Switch,{checked:!1!==a.autoScrollToResults,onChange:t=>{c({autoScrollToResults:t.target.checked})},"aria-label":"Auto-scroll to results"})),(0,t.jsx)(o.SettingRow,{label:"Auto-open section (optional)",flow:"wrap"},(0,t.jsx)(e.TextInput,{size:"sm",value:null!==(s=a.autoOpenSection)&&void 0!==s?s:"",onChange:t=>{c({autoOpenSection:t.target.value||void 0})},placeholder:"Leave blank for default behavior","aria-label":"Section ID to auto-open"}))))}})(),s})())}}}));
