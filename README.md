@@ -8,14 +8,16 @@ GitHub Pages URL formati:
 https://<github-user>.github.io/<repo-name>/widgets/pdf-export-widget/manifest.json
 https://<github-user>.github.io/<repo-name>/widgets/property-report/manifest.json
 https://<github-user>.github.io/<repo-name>/widgets/property-reportv2/manifest.json
+https://<github-user>.github.io/<repo-name>/widgets/infantry-movement-simulator/manifest.json
 ```
 
 Cache'e takilmamak icin versioned URL:
 
 ```text
-https://<github-user>.github.io/<repo-name>/v133/widgets/pdf-export-widget/manifest.json
-https://<github-user>.github.io/<repo-name>/v133/widgets/property-report/manifest.json
-https://<github-user>.github.io/<repo-name>/v133/widgets/property-reportv2/manifest.json
+https://<github-user>.github.io/<repo-name>/v134/widgets/pdf-export-widget/manifest.json
+https://<github-user>.github.io/<repo-name>/v134/widgets/property-report/manifest.json
+https://<github-user>.github.io/<repo-name>/v134/widgets/property-reportv2/manifest.json
+https://<github-user>.github.io/<repo-name>/v134/widgets/infantry-movement-simulator/manifest.json
 ```
 
 Portal'da:

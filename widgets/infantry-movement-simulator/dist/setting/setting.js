@@ -1,0 +1,8 @@
+System.register(["jimu-core","jimu-ui/advanced/setting-components"],(function(e,t){var n={},i={};return{setters:[function(e){n.css=e.css,n.jsx=e.jsx},function(e){i.MapWidgetSelector=e.MapWidgetSelector,i.SettingRow=e.SettingRow,i.SettingSection=e.SettingSection}],execute:function(){e((()=>{var e={9244:e=>{"use strict";e.exports=n},9298:e=>{"use strict";e.exports=i}},t={};function o(n){var i=t[n];if(void 0!==i)return i.exports;var r=t[n]={exports:{}};return e[n](r,r.exports,o),r.exports}o.d=(e,t)=>{for(var n in t)o.o(t,n)&&!o.o(e,n)&&Object.defineProperty(e,n,{enumerable:!0,get:t[n]})},o.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),o.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},o.p="";var r={};return o.p=window.jimuConfig.baseUrl,(()=>{"use strict";o.r(r),o.d(r,{__set_webpack_public_path__:()=>s,default:()=>i});var e=o(9244),t=o(9298);const n=e.css`
+  .movement-setting-note {
+    color: var(--ref-palette-neutral-1100);
+    font-size: 12px;
+    line-height: 1.4;
+    margin-top: 8px;
+  }
+`,i=i=>(0,e.jsx)("div",{css:n,className:"w-100 h-100"},(0,e.jsx)(t.SettingSection,{title:"Map"},(0,e.jsx)(t.SettingRow,null,(0,e.jsx)(t.MapWidgetSelector,{useMapWidgetIds:i.useMapWidgetIds,onSelect:e=>{i.onSettingChange({id:i.id,useMapWidgetIds:e})}})),(0,e.jsx)("div",{className:"movement-setting-note"},"Select the map that contains the infantry point layer. Layer selection is done in the widget at runtime.")));function s(e){o.p=e}})(),r})())}}}));
