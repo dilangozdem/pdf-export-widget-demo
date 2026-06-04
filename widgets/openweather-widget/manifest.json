@@ -1,0 +1,26 @@
+{
+  "name": "openweather-widget",
+  "label": "OpenWeather Widget",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "Custom Development",
+  "description": "Displays current OpenWeather data from default coordinates, browser location, or the selected map center.",
+  "copyright": "",
+  "license": "Apache-2.0",
+  "properties": {
+    "canCreateMapView": false,
+    "hasVersionManager": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 320,
+    "height": 360
+  },
+  "dependency": [
+    "jimu-core",
+    "jimu-arcgis"
+  ]
+}
