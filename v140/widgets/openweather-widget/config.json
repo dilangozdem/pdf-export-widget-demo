@@ -1,0 +1,9 @@
+{
+  "apiKey": "",
+  "defaultLatitude": 41.0351,
+  "defaultLongitude": 28.9833,
+  "defaultPlaceLabel": "Istanbul",
+  "refreshMinutes": 10,
+  "language": "tr",
+  "units": "metric"
+}
